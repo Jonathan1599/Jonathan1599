@@ -1,5 +1,5 @@
 # Hi 👋, I'm Jonathan D'mello 
-A backend developer that loves learning and exploring about the crazy and amazing world of how to not nuke your servers and your cloud bills 🔥. I'm always looking to collaborate🤝 and build amazing products 🚀
+A full-stack developer that loves learning and exploring about the crazy and amazing world of how to not nuke your servers and your cloud bills 🔥. I'm always looking to collaborate🤝 and build amazing products 🚀
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Golang, RabbitMQ, WebRTC and Redis**.
